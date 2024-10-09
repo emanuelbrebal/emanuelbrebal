@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanuelbrebal" alt="emanuelbrebal" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em projetos **acadêmicos**
+- 🔭 Atualmente estou estagiando como desenvolvedor WEB PHP e LARAVEL
 
-- 🌱 Atualmente estou aprendendo: **Javascript para a WEB e frameworks javascript, como Angular, React e VueJS.**
+- 🌱 Atualmente estou aprendendo: **PHP para a WEB e o framework Laravel**
 
 - 👨‍💻 Disponibilizo meus projetos aqui: [https://github.com/emanuelbrebal](https://github.com/emanuelbrebal)
 
