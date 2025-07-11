@@ -71,7 +71,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=emanuelbrebal&show_icons=true&locale=pt-br" alt="Estatísticas do GitHub" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelbrebal" alt="Contribuições consecutivas" />
-</p>
 
