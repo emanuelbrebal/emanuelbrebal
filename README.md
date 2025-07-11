@@ -1,13 +1,11 @@
 <h1 align="center">Olá 👋, Me chamo: Emanuel Victor</h1>
-<h3 align="center">Sou desenvolvedor front-end</h3>
+<h3 align="center">Sou desenvolvedor web fullstack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuelbrebal&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelbrebal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanuelbrebal" alt="emanuelbrebal" /></a> </p>
 
-- 🔭 Atualmente estou estagiando como desenvolvedor WEB PHP e LARAVEL
-
-- 🌱 Atualmente estou aprendendo: **PHP para a WEB e o framework Laravel**
+- 🔭 Atualmente estou desenvolvendo projetos WEB com PHP, LARAVEL e VUEJS.
 
 - 👨‍💻 Disponibilizo meus projetos aqui: [https://github.com/emanuelbrebal](https://github.com/emanuelbrebal)
 
@@ -23,8 +21,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
