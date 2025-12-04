@@ -16,7 +16,6 @@
 - 🔭 Atualmente estou desenvolvendo projetos **WEB com PHP, Laravel e Vue.js**
 - 👨‍💻 Veja meus projetos: [github.com/emanuelbrebal](https://github.com/emanuelbrebal)
 - 📫 Entre em contato: **manu.brebal@gmail.com**
-- 📄 Saiba mais sobre mim: [Meu Portfólio no Canva](https://www.canva.com/design/DAFwOvU4C7I/4nkYlM9u6f9sqzOL2Jw-FA/edit)
 
 ---
 
