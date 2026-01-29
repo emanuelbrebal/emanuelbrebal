@@ -60,13 +60,6 @@
 
 ---
 
-<h3 align="left">Estatísticas GitHub:</h3>
+[![card](https://github-readme-stats.vercel.app/api?username=emanuelbrebal&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelbrebal&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelbrebal&layout=compact&theme=dracula"/>
-  </a>
-</div>
+[![emanuelbrebal](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelbrebal&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
