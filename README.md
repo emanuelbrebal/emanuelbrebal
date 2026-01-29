@@ -63,11 +63,11 @@
 <h3 align="left">Estatísticas GitHub:</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelbrebal&show_icons=true&locale=pt-br&layout=compact" alt="Linguagens mais usadas" />
+   [![card](https://github-readme-stats.vercel.app/api?username=emanuelbrebal&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=emanuelbrebal&show_icons=true&locale=pt-br" alt="Estatísticas do GitHub" />
+   [![emanuelbrebal](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelbrebal&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
