@@ -1,65 +1,64 @@
-<h1 align="center">Olá 👋, Me chamo Emanuel Victor</h1>
-<h3 align="center">Sou desenvolvedor web fullstack</h3>
+# Olá! Sou Emanuel Victor 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emanuelbrebal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+### 💻 Desenvolvedor Full Stack | Entusiasta de Engenharia de Software
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=emanuelbrebal&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</p>
+Estou em uma jornada contínua para dominar a **Engenharia de Software**, focando não apenas em escrever código, mas em criar arquiteturas limpas, testáveis e escaláveis (SOLID, Clean Code).
 
 ---
 
-- 🔭 Atualmente estou desenvolvendo projetos **WEB com PHP, Laravel e Vue.js**
-- 👨‍💻 Veja meus projetos: [github.com/emanuelbrebal](https://github.com/emanuelbrebal)
-- 📫 Entre em contato: **manu.brebal@gmail.com**
+### 🚀 O que estou desenvolvendo?
+Atualmente divido meu foco entre projetos acadêmicos de impacto social e soluções SaaS:
+
+- 🍎 **Nutriflow:** Um SaaS especializado para acompanhamento nutricional eficiente.
+- 🏥 **OncoMente:** Sistema focado na democratização do conhecimento oncológico, integrando prevenção, saúde mental e combate ao estigma.
+- 🛡️ **ComunidadeAlerta:** Ferramenta de segurança comunitária estilo fórum, focada em documentar e resolver incidentes locais.
+- 🎟️ **Ação entre amigos:** Sistema completo para gestão de vendas de rifas de instituições.
+- 🖨️ **Precificação 3D:** Projeto pessoal para calcular custos de impressão 3D (unindo hobby e código!).
 
 ---
 
-<h3 align="left">Conecte-se comigo:</h3>
+### 🛠️ Arsenal Tecnológico
 
-<p align="left">
-  <a href="https://linkedin.com/in/emanuel-victor-brebal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/manu.brebal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+**Minha "zona de conforto" (Stack Principal):**
+<div style="display: inline_block"><br>
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</div>
 
----
+<br>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+**Estudando & Praticando:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div>
 
-<p align="left">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-</p>
+<br>
+
+**DevOps & Ferramentas:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</div>
 
 ---
 
-[![card](https://github-readme-stats.vercel.app/api?username=emanuelbrebal&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 📫 Vamos conversar?
+Estou sempre aberto a propostas de projetos e conexões.
 
-[![emanuelbrebal](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelbrebal&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <a href="https://www.linkedin.com/in/emanuel-victor-brebal" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:manu.brebal@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
