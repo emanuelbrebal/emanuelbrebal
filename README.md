@@ -1,6 +1,6 @@
 # Olá! Sou Emanuel Victor 👋
 
-### 💻 Desenvolvedor Full Stack | Entusiasta de Engenharia de Software
+### 💻 Desenvolvedor Full Stack | Engenheiro de Software
 
 Estou em uma jornada contínua para dominar a **Engenharia de Software**, focando não apenas em escrever código, mas em criar arquiteturas limpas, testáveis e escaláveis (SOLID, Clean Code).
 
