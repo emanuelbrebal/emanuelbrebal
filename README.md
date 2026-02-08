@@ -13,7 +13,6 @@ Atualmente divido meu foco entre projetos acadêmicos de impacto social e soluç
 - 🏥 **OncoMente:** Sistema focado na democratização do conhecimento oncológico, integrando prevenção, saúde mental e combate ao estigma.
 - 🛡️ **ComunidadeAlerta:** Ferramenta de segurança comunitária estilo fórum, focada em documentar e resolver incidentes locais.
 - 🎟️ **Ação entre amigos:** Sistema completo para gestão de vendas de rifas de instituições.
-- 🖨️ **Precificação 3D:** Projeto pessoal para calcular custos de impressão 3D (unindo hobby e código!).
 
 ---
 
