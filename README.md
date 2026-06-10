@@ -23,7 +23,6 @@ I build and ship web products end to end: backend APIs, frontend interfaces, and
 - **[Radar Mensal](https://github.com/emanuelbrebal/monthly-radar)** — Manually tracking global SaaS trends and adapting them to the Brazilian market doesn't scale. I'm building an automated multi-agent pipeline that harvests signals from curated sources, scores and ranks ideas, and delivers a weekly digest of the top picks. Laravel, Inertia, React, PostgreSQL — with an LLM orchestration layer (Anthropic API) behind a provider adapter. In development.
 
 Also on my GitHub: 
-- **Radar Mensal** (automated monthly research digests — in early development)
 - **Ative Cursos** (online course platform built for a client (freelance) — NestJS, React, PostgreSQL)
 - **Ação entre Amigos** (raffle management)
 - **Nutriflow** (SaaS for nutritionists, early development)
