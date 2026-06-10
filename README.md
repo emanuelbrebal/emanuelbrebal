@@ -1,63 +1,39 @@
-# Olá! Sou Emanuel Victor 👋
+# Emanuel Victor Brebal
 
-### 💻 Desenvolvedor Full Stack | Engenheiro de Software
+Full-stack developer — PHP/Laravel and TypeScript/React/Node.js — open to remote roles.
 
-Estou em uma jornada contínua para dominar a **Engenharia de Software**, focando não apenas em escrever código, mas em criar arquiteturas limpas, testáveis e escaláveis (SOLID, Clean Code).
+I build and ship web products end to end: backend APIs, frontend interfaces, and the Docker setup in between. Two years of professional experience across government systems and SaaS, with an AI-augmented development workflow as my process edge.
 
----
+## Availability
 
-### 🚀 O que estou desenvolvendo?
-Atualmente divido meu foco entre projetos acadêmicos de impacto social e soluções SaaS:
+- 📍 Maceió, Brazil — UTC−3, 1 hour ahead of US Eastern (EDT): full workday overlap with US teams
+- 🗣️ Portuguese (native) · English (professional working proficiency)
+- ✅ Open to remote international roles
 
-- 🍎 **Nutriflow:** Um SaaS Data-Driven (orientado a dados) especializado para acompanhamento nutricional eficiente.
-- 🏥 **OncoMente:** Sistema focado na democratização do conhecimento oncológico, integrando prevenção, saúde mental e combate ao estigma.
-- 🛡️ **ComunidadeAlerta:** Ferramenta de segurança comunitária estilo fórum, focada em documentar e resolver incidentes locais.
-- 🎟️ **Ação entre amigos:** Sistema completo para gestão de vendas de rifas de instituições.
+## Tech stack
 
----
+**Backend:** PHP (Laravel), Node.js (NestJS), PostgreSQL
+**Frontend:** TypeScript, React, React Native
+**Tooling & DevOps:** Docker, Git, Claude Code
 
-### 🛠️ Arsenal Tecnológico
+## Selected projects
 
-**Minha "zona de conforto" (Stack Principal):**
-<div style="display: inline_block"><br>
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-</div>
+- **[OncoMente](https://github.com/emanuelbrebal/cancer-health-care-app)** — Oncology patients rarely get structured mental-health support during treatment. I designed and built a mobile platform with an LLM-powered companion to fill that gap. React Native + Expo, NestJS, PostgreSQL (monorepo). Capstone project — prototype delivered.
+- **[Vitor](https://github.com/emanuelbrebal/vitor-finance)** — Most finance trackers record spending but don't prevent it. I'm building a personal finance SaaS around a CSV-import MVP and an anti-impulse wishlist that adds friction before purchases. TypeScript, React, Node.js. In development.
 
-<br>
+Also on my GitHub: 
+- **Radar Mensal** (automated monthly research digests — in early development)
+- **Ative Cursos** (online course platform built for a client (freelance) — NestJS, React, PostgreSQL)
+- **Ação entre Amigos** (raffle management)
+- **Nutriflow** (SaaS for nutritionists, early development)
+- **ComunidadeAlerta** (community safety forum)
 
-**Estudando & Praticando:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>
+## How I work
 
-<br>
+I treat AI as part of the engineering process, not a shortcut. My workflow combines AI tools (like Claude Code, Cursor and so on) with custom skills and multi-agent patterns: specs written before code, AI-assisted review as a quality gate, and humans owning the architecture decisions. This came from real production work — it's how I contributed to an EdTech SaaS under tight timelines without sacrificing code quality.
 
-**DevOps & Ferramentas:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
+## Contact
 
----
-
-### 📫 Vamos conversar?
-Estou sempre aberto a propostas de projetos e conexões.
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/emanuel-victor-brebal" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:manu.brebal@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
+- 🌐 Portfolio: [emanuelbrebal.github.io](https://emanuelbrebal.github.io)
+- 💼 LinkedIn: [linkedin.com/in/emanuel-victor-brebal](https://linkedin.com/in/emanuel-victor-brebal)
+- 📧 Email: [manu.brebal@gmail.com](mailto:manu.brebal@gmail.com)
