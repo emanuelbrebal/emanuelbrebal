@@ -19,7 +19,7 @@ I build and ship web products end to end: backend APIs, frontend interfaces, and
 ## Selected projects
 
 - **[OncoMente](https://github.com/emanuelbrebal/cancer-health-care-app)** — Oncology patients rarely get structured mental-health support during treatment. I designed and built a mobile platform with an LLM-powered companion to fill that gap. React Native + Expo, NestJS, PostgreSQL (monorepo). Capstone project — prototype delivered.
-- **[Vitor](https://github.com/emanuelbrebal/vitor-finance)** — Most finance trackers record spending but don't prevent it. I'm building a personal finance SaaS around a CSV-import MVP and an anti-impulse wishlist that adds friction before purchases. TypeScript, React, Node.js. In development.
+- **[Vitor Finance](https://github.com/emanuelbrebal/vitor-finance)** — Most finance trackers record spending but don't prevent it. I'm building a personal finance SaaS around a CSV-import MVP and an anti-impulse wishlist that adds friction before purchases. TypeScript, React, Node.js. In development.
 - **[Radar Mensal](https://github.com/emanuelbrebal/monthly-radar)** — Manually tracking global SaaS trends and adapting them to the Brazilian market doesn't scale. I'm building an automated multi-agent pipeline that harvests signals from curated sources, scores and ranks ideas, and delivers a weekly digest of the top picks. Laravel, Inertia, React, PostgreSQL — with an LLM orchestration layer (Anthropic API) behind a provider adapter. In development.
 
 Also on my GitHub: 
