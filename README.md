@@ -42,6 +42,5 @@ I also build my own AI tooling in Claude: 10+ skills and agents, led by `/aprimo
 
 ## Contact
 
-- 🌐 Portfolio: [emanuelbrebal.github.io](https://emanuelbrebal.github.io)
 - 💼 LinkedIn: [linkedin.com/in/emanuel-victor-brebal](https://linkedin.com/in/emanuel-victor-brebal)
 - 📧 Email: [manu.brebal@gmail.com](mailto:manu.brebal@gmail.com)
